@@ -1,4 +1,4 @@
-## What is is_json ?
+## What is getOS ?
 
 It is used to obtain the server operating system name on which the project is running. It supports `Darwin`, `Windows`, `Linux` operating systems, other operating systems are named `Unknown`.
 
