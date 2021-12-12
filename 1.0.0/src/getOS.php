@@ -6,8 +6,8 @@
  * @version    Release: 1.0.0
  * @license    GPL3
  * @author     Ali YILMAZ <aliyilmaz.work@gmail.com>
- * @category   Json control of a string
- * @link       https://github.com/aliyilmaz/is_json
+ * @category   Detecting an operating system
+ * @link       https://github.com/aliyilmaz/getOS
  *
  */
 class getOS
