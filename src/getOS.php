@@ -3,7 +3,7 @@
 /**
  *
  * @package    getOS
- * @version    Release: 1.0.0
+ * @version    Release: 1.0.1
  * @license    GPL3
  * @author     Ali YILMAZ <aliyilmaz.work@gmail.com>
  * @category   Detecting an operating system
@@ -25,6 +25,5 @@ class getOS
             case stristr($os, 'lin'): return 'Linux';
             default : return 'Unknown';
         }
-        return $this;
     }
 }
